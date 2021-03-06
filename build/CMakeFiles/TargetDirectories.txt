@@ -1,0 +1,4 @@
+D:/C++/isogram/build/CMakeFiles/isogram_test.dir
+D:/C++/isogram/build/CMakeFiles/rebuild_cache.dir
+D:/C++/isogram/build/CMakeFiles/test.dir
+D:/C++/isogram/build/CMakeFiles/edit_cache.dir

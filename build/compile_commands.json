@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/C++/isogram/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\isogram_test.dir\\isogram.cpp.obj -c D:\\C++\\isogram\\isogram.cpp",
+  "file": "D:/C++/isogram/isogram.cpp"
+},
+{
+  "directory": "D:/C++/isogram/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\isogram_test.dir\\isogram_test.cpp.obj -c D:\\C++\\isogram\\isogram_test.cpp",
+  "file": "D:/C++/isogram/isogram_test.cpp"
+}
+]
